@@ -24,6 +24,6 @@ Contributing Code - Please Read!
 - All code contributions and bug reports are much appreciated.
 - Please be sure to apply your fixes to the "dev" branch.
 - Also note tabs are appreciated over spaces.
-- Please read the [CONTRIBUTING.md][contributingmd] for more on using Grunt to produce builds.
+- Tesst add liness
 
 [contributingmd]: CONTRIBUTING.md
